@@ -25,15 +25,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishiksh20&show_icons=true&theme=default" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiksh20&layout=compact" height="165">
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 🌐 [rishiksh20.github.io](https://rishiksh20.github.io)  
